@@ -132,7 +132,7 @@ def pathfind(stops, end):
 	return routes
 
 def main():
-	data = sys.stdin.read()
+	data = sys.argv[1]
 	data = json.loads(data)
 
 	paths = pathfind(data['result'], data['end'])
