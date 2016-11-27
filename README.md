@@ -1,1 +1,1 @@
-Deprecated, see http://github.com/SUJU16/dashboard/utils for more recent algorithms
+Deprecated, see https://github.com/SUJU16/suju.online/tree/master/utils for more recent algorithms
